@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">44Countr_Profile_Project_part_1</string>
+    <string name="Bangladesh_button">Bangladesh</string>
+    <string name="Pakistan_button">Pakistan</string>
+    <string name="India_button">India</string>
+    <string name="Dialog">Do you want to exit?</string>
+    <string name="Title">Alert Message</string>
+
+    <string name="Bangladesh">
+
+            \n Bangladesh\n\n
+           Country in South Asia\n\n
+
+
+           Description\n
+           Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna rivers create fertile plains, and travel by boat is common. On the southern coast, the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to the royal Bengal tiger.\n
+
+
+           \nCapital: Dhaka\n
+           Dialing code: +880\n
+           Date format: dd-mm-yyyy AD\n
+           Population: 161.4 million (2018) World Bank\n
+           President: Abdul Hamid\n
+
+
+
+    </string>
+
+    <string name="Pakistan">
+
+
+            Pakistan\n
+            Country in South Asia\n
+
+            Description\n
+
+            Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the world\'s fifth-most populous country with a population exceeding 212.2 million. It is the 33rd-largest country by area, spanning 881,913 square kilometres. Wikipedia\n
+
+
+            \nCapital: Islamabad\n
+            Dialing code: +92\n
+            Area: 881,913 km²\n
+            Population: 212.2 million (2018) World Bank\n
+            Date format: : dd-mm-yyyy;\n
+
+
+
+
+
+
+
+
+    </string>
+
+
+    <string name="India">
+
+
+
+        India\n
+        Country in South Asia\n
+
+        Description\n
+        India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world. Wikipedia\n
+
+        President: Ram Nath Kovind Trending \n
+        Capital: New Delhi\n
+        Dialing code: +91\n
+        Population: 1.353 billion (2018) World Bank\n
+        States: Kerala, Rajasthan, Uttar Pradesh, Maharashtra, Punjab, MORE\n
+
+
+
+
+    </string>
+
+
+</resources>
